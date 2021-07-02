@@ -1,0 +1,30 @@
+p{
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    
+  }
+  #myDIV {
+    width: 500px;
+    height: 300px;
+    background-color: rgb(106, 219, 53);
+    color: white;
+    animation: mymove 5s infinite;
+  }
+  
+  @keyframes mymove {
+    50% {box-shadow: 10px 20px 30px blue;}
+  }
+  
+  p {color: #05050c; } 
+  h2 {color: #000000; }
+
+
+  h3{
+      color: rgba(20, 98, 117, 0.87);
+  }
+  img{position nav: right 1px;}
+ 
+  
+
+  
